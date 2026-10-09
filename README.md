@@ -1,1 +1,1 @@
-💤 I build stuff
+praticante de computaria
