@@ -2,3 +2,4 @@
 - overengineering
 - alias "git push"="git push -f"
 - an arch upate broke my system twice this week
+- most of my code comes to me in dreams
